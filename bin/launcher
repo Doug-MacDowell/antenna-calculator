@@ -1,0 +1,2 @@
+#!/usr/bin/env ruby
+require 'shortware_antenna_calculator'

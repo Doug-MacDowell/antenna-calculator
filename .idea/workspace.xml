@@ -17,7 +17,7 @@
     <SUITE FILE_PATH="coverage/shortwave_antenna_calculator@Run_spec__shortwave_antenna_calculator_spec___shortwave_antenna_calculator__1_.coverage" NAME="Run spec 'shortwave_antenna_calculator_spec': shortwave_antenna_calculator (1) Coverage Results" MODIFIED="1386651587496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" MODULE_NAME="shortwave_antenna_calculator" />
     <SUITE FILE_PATH="coverage/shortwave_antenna_calculator@Run_spec__shortwave_antenna_calculator_spec___shortwave_antenna_calculator.coverage" NAME="Run spec 'shortwave_antenna_calculator_spec': shortwave_antenna_calculator Coverage Results" MODIFIED="1386642307967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="shortwave_antenna_calculator" />
     <SUITE FILE_PATH="coverage/shortwave_antenna_calculator@shortwave_antenna_calculator.coverage" NAME="shortwave_antenna_calculator Coverage Results" MODIFIED="1386643665034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" MODULE_NAME="shortwave_antenna_calculator" />
-    <SUITE FILE_PATH="coverage/shortwave_antenna_calculator@session.coverage" NAME="session Coverage Results" MODIFIED="1386651677186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" MODULE_NAME="shortwave_antenna_calculator" />
+    <SUITE FILE_PATH="coverage/shortwave_antenna_calculator@session.coverage" NAME="session Coverage Results" MODIFIED="1386659057289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" MODULE_NAME="shortwave_antenna_calculator" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -31,10 +31,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="shortwave_antenna_calculator.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="shortwave_antenna_calculator.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/shortwave_antenna_calculator.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="5" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+            <state line="19" column="5" selection-start="388" selection-end="388" vertical-scroll-proportion="0.54545456" vertical-offset="0" max-vertical-offset="627">
               <folding />
             </state>
           </provider>
@@ -43,34 +43,7 @@
       <file leaf-file-name="shortwave_antenna_calculator_spec.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/shortwave_antenna_calculator_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="session.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/session.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="32" selection-start="491" selection-end="491" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rakefile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Rakefile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="11" selection-start="124" selection-end="124" vertical-scroll-proportion="0.13953489" vertical-offset="0" max-vertical-offset="516">
+            <state line="9" column="0" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="396">
               <folding />
             </state>
           </provider>
@@ -106,10 +79,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="116" />
-    <option name="y" value="87" />
-    <option name="width" value="1400" />
-    <option name="height" value="930" />
+    <option name="width" value="1280" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -144,6 +115,30 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="shortwave_antenna_calculator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shortwave_antenna_calculator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shortwave_antenna_calculator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shortwave_antenna_calculator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shortwave_antenna_calculator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -393,28 +388,6 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method />
     </configuration>
-    <configuration default="false" name="session" type="RubyRunConfigurationType" factoryName="Ruby">
-      <module name="shortwave_antenna_calculator" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/lib" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lib/session.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyRunner" />
-      <method />
-    </configuration>
     <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Ruby.session" />
       <item index="1" class="java.lang.String" itemvalue="Ruby.shortwave_antenna_calculator" />
@@ -424,8 +397,8 @@
     <recent_temporary>
       <list size="3">
         <item index="0" class="java.lang.String" itemvalue="RSpec.Run spec 'shortwave_antenna_calculator_spec': shortwave_antenna_calculator (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.shortwave_antenna_calculator" />
-        <item index="2" class="java.lang.String" itemvalue="RSpec.Run spec 'shortwave_antenna_calculator_spec': shortwave_antenna_calculator" />
+        <item index="1" class="java.lang.String" itemvalue="RSpec.Run spec 'shortwave_antenna_calculator_spec': shortwave_antenna_calculator" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.shortwave_antenna_calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -461,28 +434,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="116" y="87" width="1400" height="930" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1280" height="775" extended-state="1" />
+    <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25739646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26542208" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39925835" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3300371" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32880098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32799014" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -506,17 +479,45 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lib/shortwave_antenna_calculator.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="3" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
+        <state line="19" column="5" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="594">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/lib/shortwave_antenna_calculator_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="55" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0" vertical-offset="5" max-vertical-offset="810">
+        <state line="9" column="0" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="396">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/shortwave_antenna_calculator.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="5" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="594">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/shortwave_antenna_calculator_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="396">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/session.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="32" selection-start="491" selection-end="491" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="126" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="11" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="180">
           <folding />
         </state>
       </provider>
@@ -529,10 +530,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="55" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="810">
+        <state line="20" column="55" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0" vertical-offset="5" max-vertical-offset="810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/shortwave_antenna_calculator.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="3" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="55" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="810" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/shortwave_antenna_calculator/version.rb">
@@ -545,23 +559,29 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="44" selection-start="211" selection-end="211" vertical-scroll-proportion="0.16666667" vertical-offset="0" max-vertical-offset="846">
-          <folding />
-        </state>
+        <state line="7" column="44" selection-start="211" selection-end="211" vertical-scroll-proportion="0.16666667" vertical-offset="0" max-vertical-offset="846" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shortwave_antenna_calculator.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="32" selection-start="195" selection-end="195" vertical-scroll-proportion="0.18255578" vertical-offset="0" max-vertical-offset="522">
+        <state line="5" column="32" selection-start="195" selection-end="195" vertical-scroll-proportion="0.18255578" vertical-offset="0" max-vertical-offset="522" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="11" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/shortwave_antenna_calculator.rb">
+    <entry file="file://$PROJECT_DIR$/lib/session.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="5" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
-          <folding />
-        </state>
+        <state line="14" column="10" selection-start="469" selection-end="469" vertical-scroll-proportion="0.4893204" vertical-offset="0" max-vertical-offset="515" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.034951456" vertical-offset="0" max-vertical-offset="515" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/shortwave_antenna_calculator_spec.rb">
@@ -571,23 +591,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/session.rb">
+    <entry file="file://$PROJECT_DIR$/lib/shortwave_antenna_calculator.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="32" selection-start="491" selection-end="491" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rakefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="11" selection-start="124" selection-end="124" vertical-scroll-proportion="0.13953489" vertical-offset="0" max-vertical-offset="516">
+        <state line="19" column="5" selection-start="388" selection-end="388" vertical-scroll-proportion="0.54545456" vertical-offset="0" max-vertical-offset="627">
           <folding />
         </state>
       </provider>
