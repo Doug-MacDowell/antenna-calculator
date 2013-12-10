@@ -1,2 +1,16 @@
 #!/usr/bin/env ruby
-require 'shortware_antenna_calculator'
+require 'shortwave_antenna_calculator'
+
+session = AntennaCalculator.new
+
+# wait for user input
+session.freq = gets
+
+# the value needs to be a Float
+session.get_frequency
+
+# frequency must fall within range, otherwise bail out
+session.range_check
+
+# do the calculation
+session.calculate_length(@freq)
