@@ -20,7 +20,9 @@ class AntennaCalculator
   end
 
   def calculate_length(freq)
+#    @freq = @freq.to_f.round(3)
     @length = Float(468/@freq).round(2)
     puts "\nThe optimal antenna length for this frequency is #{@length} feet"
+    @length
   end
 end

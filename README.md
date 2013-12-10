@@ -1,6 +1,7 @@
 # ShortwaveAntennaCalculator
 
-This gem will calculate the optimal length for a half-wave wire antenna for use in shortwave and amateur radio operations.
+This gem calculates the optimal length for a half-wave wire antenna for use in shortwave and
+amateur radio operations.
 
 ## Installation
 
@@ -18,8 +19,9 @@ Or install it yourself as:
 
 ## Usage
 
-Very simple - when prompted, just enter the frequency in MHz. The program will only accept frequencies
-between 1.8 MHz and 30 MHZ, which covers the most of the high-frequency portion of the radio spectrum.
+Very simple - when prompted, just enter the frequency in MHz, using decimal notation. The program will
+only accept frequencies between 1.8 MHz and 30 MHZ, which covers the most of the high-frequency portion
+of the radio spectrum.  The result will be the antenna length, expressed in feet.
 
 Examples:
 (1) An amateur (ham) radio operator wants to construct a wire antenna for the 20-meter band, centered on
