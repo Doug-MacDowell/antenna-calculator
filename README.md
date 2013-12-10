@@ -5,17 +5,12 @@ amateur radio operations.
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'shortwave_antenna_calculator'
+Download and install the 'shortwave_antenna_calculator' gem.
 
 And then execute:
 
-    $ bundle
+    $ launch
 
-Or install it yourself as:
-
-    $ gem install shortwave_antenna_calculator
 
 ## Usage
 
