@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/Doug-MacDowell/antenna-calculator.png)](https://travis-ci.org/Doug-MacDowell/antenna-calculator)
+
 # ShortwaveAntennaCalculator
 
 This gem calculates the optimal length for a half-wave wire antenna for use in shortwave and
