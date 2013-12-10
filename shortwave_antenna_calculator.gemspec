@@ -5,7 +5,7 @@ require 'shortwave_antenna_calculator/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "shortwave_antenna_calculator"
-  spec.version       = ShortwaveAntennaCalculator::VERSION
+  spec.version       = AntennaCalculator::VERSION
   spec.authors       = ["Doug MacDowell"]
   spec.email         = ["dougmac9@uw.edu"]
   spec.description   = %q{Gem for finding shortwave antenna lengths}
