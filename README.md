@@ -1,5 +1,4 @@
-
-[![Build Status](https://travis-ci.org/Doug-MacDowell/antenna-calculator.png)](https://travis-ci.org/Doug-MacDowell/antenna-calculator)
+[![Build Status](https://travis-ci.org/Doug-MacDowell/antenna-calculator.png)](https://travis-ci.org/Doug-MacDowell/antenna-calculator)[![Gem Version](https://badge.fury.io/rb/shortwave_antenna_calculator.png)](http://badge.fury.io/rb/shortwave_antenna_calculator)
 
 # ShortwaveAntennaCalculator
 
