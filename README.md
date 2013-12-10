@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShortwaveAntennaCalculator
 
 This gem calculates the optimal length for a half-wave wire antenna for use in shortwave and
@@ -34,3 +35,9 @@ enter 8.652 when prompted.
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+=======
+shortwave_antenna_calculator
+============================
+
+Gem for calculating the length of a wire antenna for shortwave frequencies
+>>>>>>> 04d25e41d4837137b2e9284fc274dcbc0cb72f66
