@@ -1,25 +1,30 @@
-[![Build Status](https://travis-ci.org/Doug-MacDowell/antenna-calculator.png)](https://travis-ci.org/Doug-MacDowell/antenna-calculator)[![Gem Version](https://badge.fury.io/rb/shortwave_antenna_calculator.png)](http://badge.fury.io/rb/shortwave_antenna_calculator)
+[![Build Status](https://travis-ci.org/Doug-MacDowell/antenna-calculator.png)](https://travis-ci.org/Doug-MacDowell/antenna-calculator) [![Gem Version](https://badge.fury.io/rb/shortwave_antenna_calculator.png)](http://badge.fury.io/rb/shortwave_antenna_calculator)
 
 # ShortwaveAntennaCalculator
 
-This gem calculates the optimal length for a half-wave wire antenna for use in shortwave and
+This Ruby gem calculates the optimal length for a half-wave wire antenna for use in shortwave and
 amateur radio operations.
 
 ## Installation
 
 Download and install the 'shortwave_antenna_calculator' gem.
 
-And then execute:
+And then execute this command in a terminal session:
 
     $ launch
 
 ## Usage
 
-Very simple - when prompted, just enter the frequency in MHz, using decimal notation. The program will
-only accept frequencies between 1.8 MHz and 30 MHZ, which covers the most of the high-frequency portion
-of the radio spectrum.  The result will be the antenna length, expressed in feet.
+Very simple - when prompted, just enter the frequency in Mhz, using decimal notation. The program currently
+only accepts frequencies between 1.8 Mhz and 30 Mhz, which covers most of the high-frequency portion of 
+the radio spectrum.  The result will be the optimum antenna length for your frequency, expressed in feet.
+
+Future improvements are in the works to expand the frequency range covered to include the VHF band.
+
+Source:  The ARRL Handbook for Radio Communications, 84th Edition (American Radio Relay League, 2007)
 
 Examples:
+
 (1) An amateur (ham) radio operator wants to construct a wire antenna for the 20-meter band, centered on
 frequency 14,280,000 Hz. This frequency is equivalent to 14.280 MHz in decimal notation. Enter 14.280 when
 prompted by the program.
