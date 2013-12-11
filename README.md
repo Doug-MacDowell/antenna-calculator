@@ -2,7 +2,7 @@
 
 # ShortwaveAntennaCalculator
 
-This Ruby gem calculates the optimal length for a half-wave wire antenna for use in shortwave and
+This Ruby gem calculates the optimal length for a [half-wave wire antenna](http://en.wikipedia.org/wiki/Dipole_antenna) for use in shortwave and
 amateur radio operations.
 
 ## Installation
@@ -25,8 +25,8 @@ Source:  *The ARRL Handbook for Radio Communications, 84th Edition*, [American R
 
 **Examples:**
 
-(1) An amateur (ham) radio operator wants to construct a half-wave wire antenna for the 20-meter band, centered on
-frequency 14,280,000 Hz. This frequency is equivalent to 14.280 MHz in decimal notation. Enter **14.280** when
+(1) An amateur (ham) radio operator wants to construct a half-wave wire antenna (dipole) for the 20-meter band, centered on
+a frequency of 14,280,000 Hz. This frequency is equivalent to 14.280 MHz in decimal notation. Enter **14.280** when
 prompted by the program.
 
 (2) A shortwave listener (SWL) is interested in setting up a wire antenna that is optimized for listening
