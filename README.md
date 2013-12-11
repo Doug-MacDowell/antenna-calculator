@@ -25,7 +25,7 @@ Source:  *The ARRL Handbook for Radio Communications, 84th Edition*, [American R
 
 **Examples:**
 
-(1) An amateur (ham) radio operator wants to construct a wire antenna for the 20-meter band, centered on
+(1) An amateur (ham) radio operator wants to construct a half-wave wire antenna for the 20-meter band, centered on
 frequency 14,280,000 Hz. This frequency is equivalent to 14.280 MHz in decimal notation. Enter **14.280** when
 prompted by the program.
 
