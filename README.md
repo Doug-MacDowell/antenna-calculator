@@ -9,7 +9,7 @@ amateur radio operations.
 
 Download and install the 'shortwave_antenna_calculator' gem.
 
-And then execute this command in a terminal session:
+And then execute this command in a terminal shell:
 
     $ launch
 
@@ -21,17 +21,17 @@ the radio spectrum.  The result will be the optimum antenna length for your freq
 
 Future improvements are in the works to expand the frequency range covered to include the VHF band.
 
-Source:  The ARRL Handbook for Radio Communications, 84th Edition (American Radio Relay League, 2007)
+Source:  *The ARRL Handbook for Radio Communications, 84th Edition* [American Radio Relay League](http://www.arrl.org), 2007
 
-Examples:
+**Examples:**
 
 (1) An amateur (ham) radio operator wants to construct a wire antenna for the 20-meter band, centered on
-frequency 14,280,000 Hz. This frequency is equivalent to 14.280 MHz in decimal notation. Enter 14.280 when
+frequency 14,280,000 Hz. This frequency is equivalent to 14.280 MHz in decimal notation. Enter **14.280** when
 prompted by the program.
 
 (2) A shortwave listener (SWL) is interested in setting up a wire antenna that is optimized for listening
 to a low-power shortwave station on the opposite side of the globe on 8652 kilohertz. Expressed in megahertz,
-enter 8.652 when prompted.
+enter **8.652** when prompted.
 
 ## Contributing
 
