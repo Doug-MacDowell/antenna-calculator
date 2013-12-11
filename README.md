@@ -19,9 +19,9 @@ Very simple - when prompted, just enter the frequency in Mhz, using decimal nota
 only accepts frequencies between 1.8 Mhz and 30 Mhz, which covers most of the high-frequency portion of 
 the radio spectrum.  The result will be the optimum antenna length for your frequency, expressed in feet.
 
-Future improvements are in the works to expand the frequency range covered to include the VHF band.
+Future improvements are in the works to expand the covered frequency range to include the VHF band.
 
-Source:  *The ARRL Handbook for Radio Communications, 84th Edition* [American Radio Relay League](http://www.arrl.org), 2007
+Source:  *The ARRL Handbook for Radio Communications, 84th Edition*, [American Radio Relay League](http://www.arrl.org), 2007
 
 **Examples:**
 
