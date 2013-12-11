@@ -15,9 +15,9 @@ And then execute this command in a terminal shell:
 
 ## Usage
 
-Very simple - when prompted, just enter the frequency in Mhz, using decimal notation. The result will be the optimum antenna length for your frequency, expressed in feet. 
+Very simple - when prompted, just enter the frequency in MHz, using decimal notation. The result will be the optimum antenna length for your frequency, expressed in feet. 
 
-The program currently only accepts frequencies between 1.8 Mhz and 30 Mhz, which covers most of the high-frequency portion of the radio spectrum.  Future enhancements are in the works to expand the covered frequency range to include the VHF band.
+The program currently only accepts frequencies between 1.8 MHz and 30 MHz, which covers most of the high-frequency portion of the radio spectrum.  Future enhancements are in the works to expand the covered frequency range to include the VHF band.
 
 Source:  *The ARRL Handbook for Radio Communications, 84th Edition*, [American Radio Relay League](http://www.arrl.org), 2007
 
